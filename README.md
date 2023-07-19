@@ -1,6 +1,13 @@
 Fizzbuzz
 ========
 
+To start the test runner, open the terminal and run 
+```
+npm test
+```
+
+Or simply launch the "Test Runner" launch config
+
 FizzBuzz is a game where you enumerate all the numbers from 1 to 100:
 1. The function returns
 1. the function returns an array
