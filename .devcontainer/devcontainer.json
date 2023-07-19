@@ -1,12 +1,18 @@
 {
-    "image":"mcr.microsoft.com/devcontainers/universal:2",
-    "customizations": {
-        "codespaces": {
-          "openFiles": [
-            "README.md",
-            "fizzbuzz.mjs",
-            "fizzbuzz.test.mjs"
-          ]
-        }
-      }
-      }
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["README.md", "fizzbuzz.mjs", "fizzbuzz.test.mjs"]
+    },
+    // Configure properties specific to VS Code.
+    "vscode": {
+      // Set *default* container specific settings.json values on container create.
+      "settings": {},
+      "extensions": [
+        "GitHub.copilot",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
+      ]
+    }
+  }
+}
