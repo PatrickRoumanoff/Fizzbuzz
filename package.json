@@ -1,0 +1,12 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzbuzz.mjs",
+  "module": "esm",
+  "scripts": {
+    "test": "node --test --watch fizzbuzz.test.mjs"
+  },
+  "author": "",
+  "license": "MIT"
+}
