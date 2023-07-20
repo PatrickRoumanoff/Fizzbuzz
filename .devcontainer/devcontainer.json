@@ -11,6 +11,7 @@
       "extensions": [
         "GitHub.copilot",
         "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare",
         "dbaeumer.vscode-eslint"
       ]
     }
