@@ -1,7 +1,7 @@
 Fizzbuzz
 ========
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/PatrickRoumanoff/Fizzbuzz)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/PatrickRoumanoff/Fizzbuzz?quickstart=1)
 
 To start the test runner, open the terminal and run 
 ```
