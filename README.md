@@ -1,6 +1,8 @@
 Fizzbuzz
 ========
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/PatrickRoumanoff/Fizzbuzz)
+
 To start the test runner, open the terminal and run 
 ```
 npm test
